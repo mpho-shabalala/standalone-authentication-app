@@ -144,9 +144,7 @@ A full-featured authentication system built with **Node.js**, **Express**, **JWT
 ## Future Improvements
 
 - Switch from JSON database to MongoDB or PostgreSQL for scalability.
-- Add rate limiting and brute-force protection on login endpoints.
 - Implement role-based access control (RBAC) for protected routes.
-- Add email templates and enhanced UI/UX for email verification and password reset.
 - Add multi-factor authentication (MFA).
 
 ---
